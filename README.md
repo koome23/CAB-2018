@@ -127,13 +127,13 @@ Trend's initiative for SOC AI enablement unifying siloed data from network, endp
 [welcome-cab-members]: https://www.mhlstudio.net/CAB-2018/images/welcome-cab-members.png "Welcome CAB Members"
 [IPS Policy Workflow]: https://sr1l3e.axshare.com/
 [storyboard mockups]: https://wiki.jarvis.trendmicro.com/display/TSIM/HIE+Workshop+Storyboard
-[Pre-Workshop]: https://dsgithub.trendmicro.com/michaellan/CAB-2018/tree/master/0-Pre-Workshop
-[materials]: https://dsgithub.trendmicro.com/michaellan/CAB-2018/tree/master/0-Pre-Workshop/Materials
-[Research]: https://dsgithub.trendmicro.com/michaellan/CAB-2018/tree/master/1-Research
-[Product Planning]: https://dsgithub.trendmicro.com/michaellan/CAB-2018/tree/master/2-Product%20Planning
-[Design]: https://dsgithub.trendmicro.com/michaellan/CAB-2018/tree/master/3-Design
-[Sell]: https://dsgithub.trendmicro.com/michaellan/CAB-2018/tree/master/4-Sell
-[UX Workshop Report]: https://dsgithub.trendmicro.com/michaellan/CAB-2018/blob/master/Previous-Workshops/CAB%20HIE%20Workshop%20Executive%20Summary.pdf
+[Pre-Workshop]: https://github.com/koome23/CAB-2018/tree/master/0-Pre-Workshop
+[materials]: https://github.com/koome23/CAB-2018/tree/master/0-Pre-Workshop/Materials
+[Research]: https://github.com/koome23/CAB-2018/tree/master/1-Research
+[Product Planning]: https://github.com/koome23/CAB-2018/tree/master/2-Product%20Planning
+[Design]: https://github.com/koome23/CAB-2018/tree/master/3-Design
+[Sell]: https://github.com/koome23/CAB-2018/tree/master/4-Sell
+[UX Workshop Report]: https://github.com/koome23/CAB-2018/blob/master/Previous-Workshops/CAB%20HIE%20Workshop%20Executive%20Summary.pdf
 [Cloud-based IPS]: https://wiki.jarvis.trendmicro.com/display/TPRD/5.2+AWS+F1
 [Trend Micro IoT Security]: https://www.trendmicro.com/us/iot-security/
 [Targeted SOC Use Cases for Effective Incident Detection and Response]: https://digital-forensics.sans.org/media/Targeted-SOC-Use-Cases-for-effective-Incident-Detection-and-Response-Angelo-Perniola-David-Gray.pdf
