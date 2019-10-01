@@ -125,7 +125,7 @@ Trend's initiative for SOC AI enablement unifying siloed data from network, endp
 [Mitre ATT&CK Matrix]
 
 [welcome-cab-members]: https://www.mhlstudio.net/CAB-2018/images/welcome-cab-members.png "Welcome CAB Members"
-[IPS Policy Workflow]: https://dsgithub.trendmicro.com/pages/tpt-sms/tpt-sms-wireframe/start.html#p=intro&g=1
+[IPS Policy Workflow]: https://sr1l3e.axshare.com/
 [storyboard mockups]: https://wiki.jarvis.trendmicro.com/display/TSIM/HIE+Workshop+Storyboard
 [Pre-Workshop]: https://dsgithub.trendmicro.com/michaellan/CAB-2018/tree/master/0-Pre-Workshop
 [materials]: https://dsgithub.trendmicro.com/michaellan/CAB-2018/tree/master/0-Pre-Workshop/Materials
